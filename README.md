@@ -1,1 +1,1 @@
-# spotify_data_science
+# variuos data science techniques applied on a dataset about music from Spotify.
